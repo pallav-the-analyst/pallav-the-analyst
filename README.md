@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
-- [Business Insights 360](https://www.linkedin.com/posts/pradeep-m-analyst_businessinsights360-powerbiproject-codebasics-activity-7150327829006577664-KrRI?utm_source=share&utm_medium=member_desktop): An analysis project providing comprehensive insights into business operations.
-- [Hospitality Analysis](https://www.linkedin.com/posts/pradeep-m-analyst_datamagic-reviveinsights-codebasics-activity-7155899561398427648-r_JB?utm_source=share&utm_medium=member_desktop): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
-- [Festive Campaign Analysis](https://www.linkedin.com/posts/pradeep-m-analyst_dataanalytics-sqlproject-powerbi-activity-7164120449143046144-4fAw?utm_source=share&utm_medium=member_desktop): Analyzed marketing campaign effectiveness during festive seasons.
+- [Business Insights 360](https://www.linkedin.com/feed/update/urn:li:activity:7369380621527289858/): An analysis project providing comprehensive insights into business operations.
+- [Hospitality Analysis](): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
+- [Festive Campaign Analysis](): Analyzed marketing campaign effectiveness during festive seasons.
 
 ## Let's Connect!
 
