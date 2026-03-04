@@ -15,24 +15,25 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 
 # My Toolkit:
 
-### Data ETL & Visualisation:
-| Power BI | MySQL | PostgreSQL | Alteryx | Excel | Statistics |
-|-|-|-|-|-|-|
-| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://companieslogo.com/img/orig/AYX-cdb1d00e.png?t=1720244490" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a1beaf-7537-4903-aaa5-9ef328048317" title="Statistics" alt="Statistics" width="55" height="55"/> |
+### Data Analysis & Visualisation:
+| Excel | Power BI | Tableau | MySQL | PostgreSQL | Statistics |
+|------|------|------|------|------|------|
+| <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a1beaf-7537-4903-aaa5-9ef328048317" width="55" height="55"/> |
 
-### Python 3 & Libraries:
-| Python 3 | Jupyter | NumPy | Pandas | Matplotlib | Seaborn | Plotly |
-|-|-|-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" title="seaborn" alt="seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> |
+### Python & Libraries:
+| Python | Jupyter | NumPy | Pandas | Matplotlib | Seaborn |
+|------|------|------|------|------|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="55"/> |
 
 <!-- | Conda | Spark | DAX Studio |
 |-|-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | -->
 
-### Misc:
-| DevOps | AppInsights | JS | SAPUI5 |
-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Devops" alt="Devops" width="55" height="55"/> | <img src="https://symbols.getvecta.com/stencil_28/8_application-insights.e5d256458d.svg" title="Appinsights" alt="Appinsights" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/d27f4c2e-ec7b-4921-a9e0-19a06445c809" title="Sapui5" alt="Sapui5" width="55" height="55"/> |
+### AI & Automation:
+
+| ChatGPT | Gemini | n8n | Make |
+|------|------|------|------|
+| <img src="https://cdn.simpleicons.org/openai" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/n8n" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/make" width="55" height="55"/> |
 
 ---
 
