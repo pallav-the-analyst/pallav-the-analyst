@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I am an aspiring Data Analyst with a passion for turning data into actionable insights. I am skilled in Excel, PowerBI, SQL (MySQL & PostgreSQL), Python (Libs: Numpy, Pandas, Matplotlib, Seaborn), & Statistics and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
 
-My journey into data analysis began during my Bachelor of Computer Applications (BCA), where I developed a strong interest in working with data and solving analytical problems. Through projects like Business Insights 360 (FMCG), Hospitality Analysis, and Consumer Goods Ad Hoc Analysis using SQL, I gained hands-on experience in analyzing business data, building dashboards, and generating insights to support data-driven decisions.
+My journey into data analysis began during my Bachelor of Computer Applications (BCA), where I developed a strong interest in working with data and solving analytical problems. Through projects like Business Insights 360 (FMCG), ReviveIQ Insights (Hospitality), and Consumer Goods Ad Hoc Analysis using SQL, I gained hands-on experience in analyzing business data, building dashboards, and generating insights to support data-driven decisions.
 
 Holding a Bachelor's degree in Computer Applications, I bring a strong technical foundation combined with analytical thinking. With my hands-on experience in data analysis and a focus on creating clear, user-friendly dashboards, I aim to help organizations leverage their data to drive strategic business decisions.
 
