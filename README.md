@@ -45,12 +45,12 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Templates/Marriott%20Bonvoy%20Template.jpg"> **[REVIVEIQ INSIGHTS](https://github.com/pallav-the-analyst/ReviveIQ-Insights)**
-</p> In this project I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate % and Average Days of Delayed Delivery using Power BI. The report created provides insights across cities, product categories and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
+</p> In this project I developed an interactive hospitality analytics solution for Marriott Bonvoy using Power BI. The dashboard analyzes booking trends, revenue performance, occupancy, ADR, RevPAR, and cancellation rates across multiple hotel properties, providing insights to optimize pricing strategy, improve occupancy, and support data-driven decision making.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Templates/Shield%20Insurance%20Template.jpg"> **[SHIELD INSURANCE](https://github.com/pallav-the-analyst/Shield-Insurance)**
-</p> In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
+</p> In this project I developed an interactive insurance analytics dashboard for Shield Insurance using Power BI. The report analyzes customer growth, revenue performance, demographic behavior, and sales channel effectiveness to identify high-value customer segments and support data-driven business decisions.
 </p>
 <br><br><br>
 
