@@ -44,12 +44,12 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/AM%20Supply%20Chain%20Analysis%20Project%20Thumbnail%2BLogo.png"> **[Supply Chain Analysis](https://github.com/5ifar/AtliQMart_Supply_Chain_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Templates/Marriott%20Bonvoy%20Template.jpg"> **[REVIVEIQ INSIGHTS](https://github.com/pallav-the-analyst/ReviveIQ-Insights)**
 </p> In this project I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate % and Average Days of Delayed Delivery using Power BI. The report created provides insights across cities, product categories and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png"> **[Business Insights 360](https://github.com/5ifar/Business_Insights_360)**
+<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Templates/Shield%20Insurance%20Template.jpg"> **[SHIELD INSURANCE](https://github.com/pallav-the-analyst/Shield-Insurance)**
 </p> In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
 </p>
 <br><br><br>
