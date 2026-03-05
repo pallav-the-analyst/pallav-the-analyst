@@ -88,16 +88,10 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 
 ---
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pallav-the-analyst&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=pallav-the-analyst&theme=tokyonight&hide_border=true" width="48%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=pallav-the-analyst&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=pallav-the-analyst&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
-
-<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pallav-the-analyst&style=for-the-badge&color=orange" />
+<img src="https://komarev.com/ghpvc/?username=pallav-the-analyst&label=Profile%20Views&color=orange&style=for-the-badge"/>
 </div>
-
