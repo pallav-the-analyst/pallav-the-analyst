@@ -33,11 +33,16 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 
 | ChatGPT | Gemini | n8n | Make |
 |------|------|------|------|
-| <img src="https://cdn.simpleicons.org/openai" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/n8n" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/make" width="55" height="55"/> |
+| <img src="https://cdn.simpleicons.org/openai/00A67E" width="55"/> | <img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/n8n" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/make" width="55" height="55"/> |
 
 ---
 
 # Projects:
+
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[EXCEL ATLIQ REPORTS](https://github.com/pallav-the-analyst/Excel-AtliQ-Reports)**
+</p> In this project, I analyzed AtliQ Hardware’s customer, product, and market performance data from 2019 to 2021. Using Microsoft Excel, I built Sales and Finance reports to evaluate business performance and support data-driven decision-making. The analysis involved ETL processes, Power Query, data modeling, DAX calculations, and Pivot Tables.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/BI_360/blob/main/Template/Business%20Insights%20360%20Template.jpg"> **[BUSINESS INSIGHTS 360](https://github.com/pallav-the-analyst/BI_360)**
 </p> In this project I developed an end-to-end business intelligence solution for AtliQ Hardware using Power BI. The dashboards analyze Finance, Sales, Marketing, and Supply Chain performance to support data-driven decision making.
@@ -54,23 +59,18 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/Customer_Cohort_Analysis/blob/main/Assets/Customer%20Cohort%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Customer Cohort Analysis](https://github.com/5ifar/Customer_Cohort_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/Customer_Cohort_Analysis/blob/main/Assets/Customer%20Cohort%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[CONSUMER GOODS AD-HOC INSIGHTS](https://github.com/5ifar/Customer_Cohort_Analysis)**
 </p> In this project I implemented Customer Cohort Analysis on fictional Ecommerce dataset for 2017 using Acquisition Cohorts based on first transaction date using Alteryx Designer. Gained actionable insights related to Customer Churn, Product engagement and other relevant business metrics.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis/blob/main/Assets/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Consumer Goods Ad-Hoc Analysis](https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis/blob/main/Assets/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[CONSUMER GOODS AD-HOC INSIGHTS 2](https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis)**
 </p> In this project I conducted Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers ensuring data integrity.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20HR%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Employee Attrition Analysis](https://github.com/5ifar/MeriSKILL_Employee_Attrition_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Employee%20Attrition%20HR%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[ATLIQ GRAND HOSPITALITY DATA ANALYSIS](https://github.com/5ifar/MeriSKILL_Employee_Attrition_Analysis)**
 </p> In this project I navigate through the core of HR Analytics, the art of deriving actionable insights from employee attrition data for 1470 employees using Microsoft Power BI. It involves identifying attrition patterns across parameters like Employee Demographics, Turnover & Wellbeing and providing data-backed insights and recommendations that breathe life into our employee retention strategies.
-</p>
-<br><br><br>
-
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[AtliQHardware: Sales & Finance Performance Analysis](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics)**
-</p> In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
 <br><br><br>
 
