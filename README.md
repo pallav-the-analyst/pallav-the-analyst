@@ -39,7 +39,7 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 
 # Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[EXCEL ATLIQ REPORTS](https://github.com/pallav-the-analyst/Excel-AtliQ-Reports)**
+<img align="left" width="250" height="150" src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[Sales & Finance Analysis](https://github.com/pallav-the-analyst/Excel-AtliQ-Reports)**
 </p> In this project, I analyzed AtliQ Hardware’s customer, product, and market performance data from 2019 to 2021. Using Microsoft Excel, I built Sales and Finance reports to evaluate business performance and support data-driven decision-making. The analysis involved ETL processes, Power Query, data modeling, DAX calculations, and Pivot Tables.
 </p>
 <br><br><br>
