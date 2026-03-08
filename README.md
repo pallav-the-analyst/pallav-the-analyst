@@ -70,8 +70,7 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS/blob/main/Templates/Atliq%20Grands%20Hospitality%20Analysis%20Template.jpg"> **[ATLIQ GRAND HOSPITALITY DATA ANALYSIS](https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS)**
-</p> Developed an interactive hospitality analytics dashboard for AtliQ Grands using Power BI. The analysis focuses on key hotel performance metrics such as occupancy rate, ADR, RevPAR, and booking trends. The dashboard helps identify revenue opportunities and evaluate property performance across different locations. These insights enable hotel management to optimize pricing strategies and improve overall operational performance.
-</p>
+</p> Performed hospitality data analysis for AtliQ Grands using Python. Analyzed revenue trends, sales performance, and customer demographics to understand business patterns. Used libraries such as Pandas, NumPy, and Matplotlib to clean, analyze, and visualize the data. The insights highlight revenue growth periods, customer segments, and opportunities for operational improvement.
 <br><br><br>
 
 ---
