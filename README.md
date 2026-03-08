@@ -40,17 +40,20 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 # Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/EXCEL-ATLIQ-REPORTS/blob/main/Templates/Sales%20%26%20Finance%20Analysis%20Template.jpg"> **[SALES & FINANCE ANALYSIS](https://github.com/pallav-the-analyst/Excel-AtliQ-Reports)**
-</p> In this project, I analyzed AtliQ Hardware’s customer, product, and market performance data from 2019 to 2021. Using Microsoft Excel, I built Sales and Finance reports to evaluate business performance and support data-driven decision-making. The analysis involved ETL processes, Power Query, data modeling, DAX calculations, and Pivot Tables.
+</p> In this project, I analyzed AtliQ Hardware's customer, product, and market performance data from 2019–2021 using Microsoft Excel. I developed Sales and Finance reports to evaluate business performance and support data-driven decision making.
+The project involved ETL processes, Power Query transformations, data modeling, DAX calculations, and Pivot Tables to generate meaningful insights for business stakeholders.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/BUSINESS-INSIGHTS-360/blob/main/Template/Business%20Insights%20360%20Template.jpg"> **[BUSINESS INSIGHTS 360](https://github.com/pallav-the-analyst/BI_360)**
-</p> In this project I developed an end-to-end business intelligence solution for AtliQ Hardware using Power BI. The dashboards analyze Finance, Sales, Marketing, and Supply Chain performance to support data-driven decision making.
+</p> In this project, I developed an end-to-end business intelligence solution for AtliQ Hardware using Power BI. The dashboards provide comprehensive insights across Finance, Sales, Marketing, and Supply Chain operations.
+The solution enables stakeholders to monitor key business metrics, identify performance trends, and make informed strategic decisions through interactive and dynamic visualizations.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Templates/Marriott%20Bonvoy%20Template.jpg"> **[REVIVEIQ INSIGHTS](https://github.com/pallav-the-analyst/ReviveIQ-Insights)**
-</p> In this project I developed an interactive hospitality analytics solution for Marriott Bonvoy using Power BI. The dashboard analyzes booking trends, revenue performance, occupancy, ADR, RevPAR, and cancellation rates across multiple hotel properties, providing insights to optimize pricing strategy, improve occupancy, and support data-driven decision making.
+</p> In this project, I built an interactive hospitality analytics dashboard for Marriott Bonvoy using Power BI. The dashboard analyzes booking trends, revenue performance, occupancy, ADR, RevPAR, and cancellation rates across multiple hotel properties.
+ReviveIQ Insights transforms hospitality data into actionable business intelligence, enabling stakeholders to optimize pricing strategies, improve occupancy, reduce cancellations, and enhance overall hotel performance.
 </p>
 <br><br><br>
 
@@ -60,7 +63,8 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS](https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS)**
-</p> In this project I implemented Customer Cohort Analysis on fictional Ecommerce dataset for 2017 using Acquisition Cohorts based on first transaction date using Alteryx Designer. Gained actionable insights related to Customer Churn, Product engagement and other relevant business metrics.
+</p> In this project, I developed an interactive insurance analytics dashboard for Shield Insurance using Power BI. The report analyzes customer growth, revenue trends, demographic behavior, and sales channel performance.
+The dashboard helps identify high-value customer segments, evaluate business performance, and support data-driven decision making for strategic planning.
 </p>
 <br><br><br>
 
