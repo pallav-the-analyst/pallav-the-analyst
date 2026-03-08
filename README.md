@@ -40,53 +40,37 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 # Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/EXCEL-ATLIQ-REPORTS/blob/main/Templates/Sales%20%26%20Finance%20Analysis%20Template.jpg"> **[SALES & FINANCE ANALYSIS](https://github.com/pallav-the-analyst/Excel-AtliQ-Reports)**
-</p> In this project, I analyzed AtliQ Hardware's customer, product, and market performance data from 2019–2021 using Microsoft Excel. I developed Sales and Finance reports to evaluate business performance and support data-driven decision making.
-The project involved ETL processes, Power Query transformations, data modeling, DAX calculations, and Pivot Tables to generate meaningful insights for business stakeholders.
+</p> Analyzed AtliQ Hardware’s sales and financial performance using Excel. Built interactive reports to evaluate customer performance, market trends, and revenue growth from 2019–2021. Applied Power Query, Pivot Tables, and advanced Excel formulas to transform data and generate actionable business insights.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/BUSINESS-INSIGHTS-360/blob/main/Template/Business%20Insights%20360%20Template.jpg"> **[BUSINESS INSIGHTS 360](https://github.com/pallav-the-analyst/BI_360)**
-</p> In this project, I developed an end-to-end business intelligence solution for AtliQ Hardware using Power BI. The dashboards provide comprehensive insights across Finance, Sales, Marketing, and Supply Chain operations.
-The solution enables stakeholders to monitor key business metrics, identify performance trends, and make informed strategic decisions through interactive and dynamic visualizations.
+</p> Developed an end-to-end business intelligence solution for AtliQ Hardware using Power BI. The dashboard integrates sales, finance, marketing, and supply chain data to provide a unified view of business performance. Enabled stakeholders to track KPIs, analyze trends, and support data-driven decision making.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Templates/Marriott%20Bonvoy%20Template.jpg"> **[REVIVEIQ INSIGHTS](https://github.com/pallav-the-analyst/ReviveIQ-Insights)**
-</p> In this project, I built an interactive hospitality analytics dashboard for Marriott Bonvoy using Power BI. The dashboard analyzes booking trends, revenue performance, occupancy, ADR, RevPAR, and cancellation rates across multiple hotel properties.
-ReviveIQ Insights transforms hospitality data into actionable business intelligence, enabling stakeholders to optimize pricing strategies, improve occupancy, reduce cancellations, and enhance overall hotel performance.
+</p> Built an interactive hospitality analytics dashboard for Marriott Bonvoy using Power BI. Analyzed key metrics such as occupancy rate, ADR, RevPAR, and booking trends to identify revenue opportunities and operational improvements for hotel management.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/Shield-Insurance/blob/main/Templates/Shield%20Insurance%20Template.jpg"> **[SHIELD INSURANCE](https://github.com/pallav-the-analyst/Shield-Insurance)**
-</p> In this project I developed an interactive insurance analytics dashboard for Shield Insurance using Power BI. The report analyzes customer growth, revenue performance, demographic behavior, and sales channel effectiveness to identify high-value customer segments and support data-driven business decisions.
+</p> Developed an interactive insurance analytics dashboard for AtliQ Hardware using Power BI. Analyzed customer growth, revenue trends, demographic patterns, and sales channel performance to identify high-value customer segments and support data-driven business decisions.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS](https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS)**
-</p> In this project, I developed an interactive insurance analytics dashboard for Shield Insurance using Power BI. The report analyzes customer growth, revenue trends, demographic behavior, and sales channel performance.
-The dashboard helps identify high-value customer segments, evaluate business performance, and support data-driven decision making for strategic planning.
+</p> Performed ad-hoc business analysis for AtliQ Hardware using SQL. The analysis explores sales performance, product demand, and market trends across different regions. It helps uncover key insights into customer behavior and business performance. These findings support strategic decision making and data-driven business planning.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS-2/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%202%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS 2](https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS-2)**
-</p> In this project I conducted Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers ensuring data integrity.
+</p> Performed ad-hoc business analysis for AtliQ Hardware using SQL. The analysis explores sales performance, product demand, and market trends across different regions. It helps uncover key insights into customer behavior and business performance. These findings support strategic decision making and data-driven business planning.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS/blob/main/Templates/Atliq%20Grands%20Hospitality%20Analysis%20Template.jpg"> **[ATLIQ GRAND HOSPITALITY DATA ANALYSIS](https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS)**
-</p> In this project I navigate through the core of HR Analytics, the art of deriving actionable insights from employee attrition data for 1470 employees using Microsoft Power BI. It involves identifying attrition patterns across parameters like Employee Demographics, Turnover & Wellbeing and providing data-backed insights and recommendations that breathe life into our employee retention strategies.
-</p>
-<br><br><br>
-
-## Mini Projects:
-
-<img align="left" width="250" height="150" src="https://github.com/5ifar/WholesaleStore_Orders_Data_ETL/blob/main/Assets/Wholesale%20Store%20Orders%20Data%20ETL%20Project%20Thumbnail%2BIcon.png"> **[Wholesale Store Orders Data ETL](https://github.com/5ifar/WholesaleStore_Orders_Data_ETL)**
-</p> In this project I implemented the ETL process on a fictional Wholesale Store 2021 Orders Dataset using Alteryx Designer. It involved processing 482 Thousand Orders data from a Point of Sale (POS) system, as well as an export from the Order Returns department that is generated every month and finally exporting the transformed Orders and Customers data to be stored long-term in the Data Warehouse for reporting purposes.
-</p>
-<br><br><br>
-
-<img align="left" width="250" height="150" src="https://github.com/5ifar/MeriSKILL_Sales_Analysis/blob/main/Assets/MeriSKILL%20Sales%20Analysis%20Project%20Thumbnail%2BIcon.png"> **[US Regional Sales Analysis](https://github.com/5ifar/MeriSKILL_US_Regional_Sales_Analysis)**
-</p> This project involves analysis of US Regional Sales data for 2019 to optimize sales strategies by identifying top-selling products, revenue distribution & key metrics trends like average order value using Microsoft Power BI. This analysis was done as part of my Internship assignment at MeriSKILL June 2024.
+</p> Developed an interactive hospitality analytics dashboard for AtliQ Grands using Power BI. The analysis focuses on key hotel performance metrics such as occupancy rate, ADR, RevPAR, and booking trends. The dashboard helps identify revenue opportunities and evaluate property performance across different locations. These insights enable hotel management to optimize pricing strategies and improve overall operational performance.
 </p>
 <br><br><br>
 
