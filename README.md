@@ -59,17 +59,17 @@ Feel free to explore my repositories to see my projects and analyses. I’m alwa
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS](https://github.com/5ifar/Customer_Cohort_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS](https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS)**
 </p> In this project I implemented Customer Cohort Analysis on fictional Ecommerce dataset for 2017 using Acquisition Cohorts based on first transaction date using Alteryx Designer. Gained actionable insights related to Customer Churn, Product engagement and other relevant business metrics.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS-2/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%202%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS 2](https://github.com/5ifar/Consumer_Goods_Ad-Hoc_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS-2/blob/main/Templates/Consumer%20Goods%20Ad-Hoc%20Insights%202%20Template.jpg"> **[CONSUMER GOODS AD-HOC INSIGHTS 2](https://github.com/pallav-the-analyst/CONSUMER-GOODS-AD-HOC-INSIGHTS-2)**
 </p> In this project I conducted Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers ensuring data integrity.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS/blob/main/Templates/Atliq%20Grands%20Hospitality%20Analysis%20Template.jpg"> **[ATLIQ GRAND HOSPITALITY DATA ANALYSIS](https://github.com/5ifar/MeriSKILL_Employee_Attrition_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS/blob/main/Templates/Atliq%20Grands%20Hospitality%20Analysis%20Template.jpg"> **[ATLIQ GRAND HOSPITALITY DATA ANALYSIS](https://github.com/pallav-the-analyst/ATLIQ-GRAND-DATA-ANALYSIS)**
 </p> In this project I navigate through the core of HR Analytics, the art of deriving actionable insights from employee attrition data for 1470 employees using Microsoft Power BI. It involves identifying attrition patterns across parameters like Employee Demographics, Turnover & Wellbeing and providing data-backed insights and recommendations that breathe life into our employee retention strategies.
 </p>
 <br><br><br>
